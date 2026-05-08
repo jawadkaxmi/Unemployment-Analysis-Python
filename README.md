@@ -1,3 +1,4 @@
+<img width="2685" height="2061" alt="unemployment_analysis" src="https://github.com/user-attachments/assets/ec59bfb0-a775-450f-967a-a0cdb7055ebe" />
 # Unemployment Analysis with Python
 ### CodeAlpha Data Science Internship — Task 2
 
