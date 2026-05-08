@@ -1,6 +1,7 @@
 <img width="2685" height="2061" alt="unemployment_analysis" src="https://github.com/user-attachments/assets/ec59bfb0-a775-450f-967a-a0cdb7055ebe" />
+
 # Unemployment Analysis with Python
-### CodeAlpha Data Science Internship — Task 2
+### Personal Data Science Project
 
 ## Overview
 Analysis of India's unemployment rate data using Python, investigating the impact of COVID-19 on unemployment trends.
@@ -27,5 +28,4 @@ Analysis of India's unemployment rate data using Python, investigating the impac
 - Seaborn
 
 ## Author
-Syed Muhammad Jawad — CodeAlpha Data Science Intern
-Student ID: CA/SE3/14658
+Syed Muhammad Jawad — Aspiring Data Analyst
